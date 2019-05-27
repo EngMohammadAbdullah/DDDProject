@@ -1,0 +1,12 @@
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\bin\Debug\Meubilair.Core.dll
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\bin\Debug\Meubilair.Core.pdb
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.csprojAssemblyReference.cache
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.csproj.CoreCompileInputs.cache
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.dll
+C:\Users\skole\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\bin\Debug\Meubilair.Core.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\bin\Debug\Meubilair.Core.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.csprojAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Core\obj\Debug\Meubilair.Core.pdb

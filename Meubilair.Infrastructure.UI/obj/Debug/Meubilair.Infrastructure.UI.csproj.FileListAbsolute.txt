@@ -1,0 +1,6 @@
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\bin\Debug\Meubilair.Infrastructure.UI.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\bin\Debug\Meubilair.Infrastructure.UI.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\obj\Debug\Meubilair.Infrastructure.UI.csprojAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\obj\Debug\Meubilair.Infrastructure.UI.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\obj\Debug\Meubilair.Infrastructure.UI.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Infrastructure.UI\obj\Debug\Meubilair.Infrastructure.UI.pdb

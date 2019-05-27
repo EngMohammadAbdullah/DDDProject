@@ -1,0 +1,11 @@
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Application.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Application.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Model.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Core.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Model.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\bin\Debug\Meubilair.Core.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\obj\Debug\Meubilair.Application.csprojAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\obj\Debug\Meubilair.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\obj\Debug\Meubilair.Application.csproj.CopyComplete
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\obj\Debug\Meubilair.Application.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\Meubilair.Application\obj\Debug\Meubilair.Application.pdb

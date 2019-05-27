@@ -1,0 +1,93 @@
+﻿using Meubilair.Core.DomainBase;
+using Meubilair.Core.RepositoryFramework;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Meubilair.Core
+{
+    public class UnitOfWork : IUnitOfWork
+    {
+        private Guid key;
+        //private IClientTransactionRepository clientTransactionRepository;
+        private Dictionary<EntityBase, IUnitOfWorkRepository> addedEntities;
+        private Dictionary<EntityBase, IUnitOfWorkRepository> changedEntities;
+        private Dictionary<EntityBase, IUnitOfWorkRepository> deletedEntities;
+
+        public UnitOfWork()
+        {
+            this.key = Guid.NewGuid();
+
+            this.addedEntities = new Dictionary<EntityBase,
+                                     IUnitOfWorkRepository>();
+            this.changedEntities = new Dictionary<EntityBase,
+                                       IUnitOfWorkRepository>();
+            this.deletedEntities = new Dictionary<EntityBase,
+                                       IUnitOfWorkRepository>();
+        }
+
+        #region IUnitOfWork Members
+
+        public void RegisterAdded(EntityBase entity,
+            IUnitOfWorkRepository repository)
+        {
+            this.addedEntities.Add(entity, repository);
+        }
+
+        public void RegisterChanged(EntityBase entity,
+            IUnitOfWorkRepository repository)
+        {
+            this.changedEntities.Add(entity, repository);
+        }
+
+        public void RegisterRemoved(EntityBase entity,
+            IUnitOfWorkRepository repository)
+        {
+            this.deletedEntities.Add(entity, repository);
+        }
+
+        public void Commit()
+        {
+
+            foreach (EntityBase entity in this.deletedEntities.Keys)
+            {
+                this.deletedEntities[entity].PersistDeletedItem(entity);
+
+            }
+
+            foreach (EntityBase entity in this.addedEntities.Keys)
+            {
+                this.addedEntities[entity].PersistNewItem(entity);
+
+            }
+
+            foreach (EntityBase entity in this.changedEntities.Keys)
+            {
+                this.changedEntities[entity].PersistUpdatedItem(entity);
+
+            }
+
+
+
+
+            this.deletedEntities.Clear();
+            this.addedEntities.Clear();
+            this.changedEntities.Clear();
+            this.key = Guid.NewGuid();
+        }
+
+        public object Key
+        {
+            get { return this.key; }
+        }
+
+        //public IClientTransactionRepository ClientTransactionRepository
+        //{
+        //    get { return this.clientTransactionRepository; }
+        //}
+
+        #endregion
+    }
+}

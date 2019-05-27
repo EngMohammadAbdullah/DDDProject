@@ -1,0 +1,18 @@
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.csprojAssemblyReference.cache
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\bin\Debug\FrontDesk.SharedKernel.dll
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\bin\Debug\FrontDesk.SharedKernel.pdb
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\bin\Debug\StructureMap.dll
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\bin\Debug\StructureMap.xml
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.csproj.CopyComplete
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.dll
+D:\Dell Projects\domain-driven-design-fundamentals\4-domain-driven-design-fundamentals-m4-exercise-files\ddd-m4-after\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\bin\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\bin\Debug\FrontDesk.SharedKernel.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\bin\Debug\StructureMap.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\bin\Debug\StructureMap.xml
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\obj\Debug\FrontDesk.SharedKernel.csprojAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\obj\Debug\FrontDesk.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\obj\Debug\FrontDesk.SharedKernel.csproj.CopyComplete
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\obj\Debug\FrontDesk.SharedKernel.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Meubilair\SharedKernal\obj\Debug\FrontDesk.SharedKernel.pdb
